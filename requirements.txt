@@ -1,0 +1,15 @@
+opencv-python
+numpy
+pandas
+torch
+mujoco
+gymnasium
+matplotlib
+scipy
+tqdm
+osqp
+cvxpy
+imageio
+imageio-ffmpeg
+wandb
+franky-control
